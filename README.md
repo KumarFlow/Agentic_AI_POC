@@ -33,7 +33,7 @@ Follow these steps from start to finish:
 ### ✅ Step 1: Clone the Repo
 
 ```bash
-git clone https://github.com/mevinayak/Agentic_AI_POC.git
+git clone https://github.com/KumarFlow/Agentic_AI_POC.git
 cd Agentic_AI_POC
 ```
 
