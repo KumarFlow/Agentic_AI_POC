@@ -56,9 +56,9 @@ pip install -r requirements.txt
 
 ---
 
-### ✅ Step 4: Create Azure API Keys File
+### ✅ Step 4: Update Azure OpenAI API Keys File
 
-Create a file called `keys.py` in the root folder of the project with the following content:
+In the file called `keys.py` present in the root folder of the project, add you keys:
 
 ```python
 keys = {
