@@ -50,19 +50,6 @@ source venv/bin/activate        # On Windows: venv\Scripts\activate
 
 ### ✅ Step 3: Install Dependencies
 
-Create a file called `requirements.txt` with the following content:
-
-```txt
-streamlit
-pandas
-matplotlib
-openai
-semantic-kernel==0.3.15.dev0
-azure-communication-email
-```
-
-Then install dependencies:
-
 ```bash
 pip install -r requirements.txt
 ```
