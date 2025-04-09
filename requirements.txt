@@ -1,0 +1,16 @@
+setuptools
+azure.identity
+azure.functions
+azure.storage.blob
+microsoft-bing-newssearch
+azure.core
+pandas
+openai
+flask
+flask[async]
+redis
+scipy
+matplotlib
+semantic-kernel
+azure-communication-email
+streamlit
