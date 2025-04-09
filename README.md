@@ -33,8 +33,8 @@ Follow these steps from start to finish:
 ### ✅ Step 1: Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/ai-csv-analyzer.git
-cd ai-csv-analyzer
+git clone https://github.com/mevinayak/Agentic_AI_POC.git
+cd Agentic_AI_POC
 ```
 
 ---
