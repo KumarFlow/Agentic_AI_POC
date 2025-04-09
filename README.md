@@ -14,7 +14,7 @@ This app lets you upload a CSV file and ask a question in natural language. It w
 
 ## 🧰 Built With
 
-- Python 3.8+
+- Python 3.10+
 - [Streamlit](https://streamlit.io/)
 - [Semantic Kernel (Microsoft)](https://github.com/microsoft/semantic-kernel)
 - Azure OpenAI (GPT-4)
