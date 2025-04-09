@@ -1,0 +1,101 @@
+manufacturer,vehicle,model,type,fuel,color,vrm
+Hyundai,Volvo Altima,2,Cargo Van,Diesel,orange,ZD20KEK
+Ford,Mercedes Benz Charger,Fortwo,Hatchback,Hybrid,maroon,IR52LWF
+Aston Martin,Lamborghini Civic,1,Extended Cab Pickup,Electric,salmon,LD91UUS
+Volkswagen,Porsche CTS,Expedition,Passenger Van,Gasoline,cyan,WX80VBH
+Cadillac,Audi Mercielago,Civic,Convertible,Gasoline,violet,RY45FRH
+Fiat,Bugatti Element,Beetle,Sedan,Electric,red,AT69RTH
+Dodge,Jaguar Jetta,Camaro,Convertible,Diesel,violet,MX02XHD
+Bugatti,Kia Focus,Expedition,Passenger Van,Hybrid,teal,XG24PBO
+Land Rover,Maserati Ranchero,V90,Minivan,Electric,magenta,GC54YSM
+Hyundai,Lamborghini Taurus,A4,Hatchback,Diesel,olive,DN79APW
+Tesla,Lamborghini Ranchero,Challenger,Convertible,Hybrid,gold,JK51QYJ
+Ford,Land Rover A4,Land Cruiser,Passenger Van,Diesel,cyan,RQ67JJT
+Dodge,Ford Aventador,A4,Extended Cab Pickup,Hybrid,lavender,AR46BCU
+Volkswagen,Bentley Challenger,Escalade,Minivan,Hybrid,maroon,JG79UOH
+Aston Martin,Polestar Prius,Volt,Crew Cab Pickup,Gasoline,sky blue,AX73MXT
+Maserati,Jaguar Fiesta,Silverado,Wagon,Hybrid,magenta,OZ01MDT
+Toyota,Chevrolet Element,Durango,Cargo Van,Diesel,ivory,NT29BSN
+BMW,Cadillac Focus,Charger,Cargo Van,Diesel,red,NG18HOG
+Lamborghini,Volkswagen Spyder,Silverado,Convertible,Diesel,black,CP59KOJ
+Aston Martin,Rolls Royce Golf,El Camino,Coupe,Gasoline,gold,PK48TTL
+Lamborghini,Hyundai Ranchero,Escalade,Cargo Van,Diesel,yellow,YB91UFQ
+Mini,Audi Model 3,Accord,Cargo Van,Diesel,blue,HZ35HFB
+Dodge,Bugatti A8,Volt,Coupe,Hybrid,plum,JZ08TGH
+Jeep,Chevrolet Prius,XC90,Sedan,Hybrid,purple,TA60BMV
+Maserati,Polestar Model X,Durango,Crew Cab Pickup,Gasoline,silver,CP13NOF
+Nissan,Toyota Civic,Durango,Coupe,Diesel,blue,TJ26BFC
+Polestar,Cadillac Mustang,Escalade,Coupe,Diesel,indigo,DF96ONV
+Toyota,Maserati Colorado,XTS,Cargo Van,Gasoline,lime,NU79EYR
+Aston Martin,Hyundai Corvette,Altima,Minivan,Hybrid,lavender,KY95FXA
+Mazda,Toyota Charger,El Camino,Hatchback,Diesel,plum,AO49VXJ
+Honda,Maserati V90,Taurus,Convertible,Electric,yellow,CD65AAL
+Volkswagen,Volkswagen 911,ATS,Cargo Van,Electric,mint green,CI51XVN
+Ford,Ferrari Fortwo,Escalade,Minivan,Hybrid,cyan,GV09ZLL
+Lamborghini,Ford Jetta,Model X,Crew Cab Pickup,Diesel,tan,YP30YPF
+Hyundai,Chrysler Golf,Countach,Crew Cab Pickup,Diesel,cyan,VP51EUP
+Maserati,Audi Mustang,Fiesta,Extended Cab Pickup,Diesel,magenta,KX50WZU
+Honda,Dodge XC90,Explorer,Minivan,Diesel,gold,FO46JHS
+Land Rover,Mini A4,Explorer,Sedan,Diesel,ivory,US98AIG
+Mercedes Benz,Jaguar Durango,Escalade,Extended Cab Pickup,Diesel,maroon,AK53DQO
+Hyundai,Cadillac XC90,PT Cruiser,Passenger Van,Gasoline,teal,HL03FUA
+Tesla,Toyota 1,Beetle,Passenger Van,Gasoline,black,AG28ONW
+Porsche,Cadillac Model X,Expedition,SUV,Diesel,sky blue,LU05BMV
+Fiat,Mazda Explorer,Beetle,Extended Cab Pickup,Gasoline,blue,GZ01HVW
+Smart,Bentley Element,Accord,Minivan,Diesel,purple,NM93MFW
+Land Rover,Rolls Royce CTS,Ranchero,Wagon,Gasoline,azure,MG21LFM
+Jeep,Fiat Altima,Fiesta,Coupe,Gasoline,white,RW04EQP
+Chrysler,Fiat F-150,Aventador,Hatchback,Hybrid,turquoise,FD26ROE
+Mazda,Kia Ranchero,CX-9,SUV,Diesel,teal,BN87SAI
+Fiat,Honda Mercielago,Explorer,Sedan,Electric,sky blue,AW69FVQ
+Smart,Fiat Expedition,Taurus,Passenger Van,Gasoline,magenta,TP47SAP
+Polestar,Volvo Altima,CTS,Coupe,Electric,white,FQ63UUN
+Jaguar,Maserati Beetle,Taurus,Wagon,Electric,orange,ZD39OOK
+Volvo,Volkswagen Land Cruiser,Impala,Wagon,Hybrid,sky blue,RN81LJX
+Aston Martin,Lamborghini Volt,Model X,SUV,Hybrid,red,IJ78USM
+Mini,Jeep Malibu,Spyder,Extended Cab Pickup,Gasoline,plum,HZ42HGF
+Dodge,Mazda A4,2,Hatchback,Diesel,green,WN42SUH
+Ferrari,Jeep Focus,Impala,Minivan,Diesel,fuchsia,EJ57UNX
+Lamborghini,Chrysler V90,A8,SUV,Electric,green,OS14JYC
+Chrysler,Kia Silverado,Element,Cargo Van,Electric,violet,JC86BUK
+Mini,Jaguar A4,A8,Crew Cab Pickup,Hybrid,fuchsia,HL88RQA
+Bugatti,Nissan Explorer,Camry,Cargo Van,Gasoline,blue,PL51JAY
+Polestar,Volvo Charger,Charger,SUV,Hybrid,turquoise,ZL54RMC
+Porsche,Volvo LeBaron,Beetle,Sedan,Hybrid,green,QU01SQR
+Aston Martin,Maserati Model S,F-150,Cargo Van,Electric,lavender,UX87NXS
+Bugatti,Bentley Volt,Camry,Coupe,Hybrid,orchid,SX59WST
+Nissan,Dodge 1,CX-9,Extended Cab Pickup,Gasoline,white,QE41XVW
+Bugatti,Smart Colorado,Land Cruiser,Sedan,Gasoline,orange,HZ92UNN
+Fiat,Polestar 1,Model T,Extended Cab Pickup,Hybrid,violet,BN29VAH
+Mini,Jeep Aventador,Accord,Cargo Van,Diesel,sky blue,HI88XON
+Mini,Dodge Durango,Mercielago,Minivan,Electric,black,IA85FIV
+Kia,Rolls Royce 1,Roadster,Extended Cab Pickup,Diesel,white,YJ09XYO
+Smart,Honda 2,Land Cruiser,Coupe,Diesel,blue,KF33DEW
+Maserati,BMW LeBaron,V90,SUV,Diesel,mint green,LS12WOM
+Ford,Honda Mustang,Silverado,Coupe,Diesel,olive,DM75EEP
+Land Rover,Toyota CX-9,F-150,SUV,Electric,plum,EZ39TPQ
+Audi,Mini Expedition,Malibu,Cargo Van,Diesel,turquoise,WJ39PEY
+Volvo,Hyundai Beetle,Malibu,Sedan,Diesel,orchid,QR04IAZ
+Ford,Polestar Wrangler,Impala,SUV,Gasoline,turquoise,LL61IAC
+Polestar,Fiat XTS,CX-9,Wagon,Diesel,teal,MI65ATG
+Jaguar,Smart Model T,Ranchero,Crew Cab Pickup,Diesel,tan,RR87JDK
+Aston Martin,Smart Roadster,2,SUV,Electric,red,ZR66TLP
+Toyota,Bugatti Land Cruiser,Golf,Cargo Van,Diesel,tan,IW58QQL
+Mercedes Benz,Rolls Royce Model X,Corvette,Crew Cab Pickup,Electric,salmon,UR53GWA
+Chevrolet,Chrysler A8,Corvette,Crew Cab Pickup,Gasoline,ivory,GL58JJA
+Chevrolet,Rolls Royce Beetle,Challenger,Crew Cab Pickup,Hybrid,lime,BT12EFO
+Chevrolet,Dodge Ranchero,Wrangler,Extended Cab Pickup,Gasoline,red,EC96RUR
+Bentley,Cadillac Camaro,Element,Coupe,Gasoline,azure,RS55BHM
+Rolls Royce,Jeep Challenger,Prius,Wagon,Diesel,magenta,AM01JZU
+Cadillac,Hyundai Impala,Fortwo,Extended Cab Pickup,Gasoline,maroon,LD37IEB
+Mazda,Jaguar A4,1,Coupe,Hybrid,plum,VT96HPY
+Ferrari,Audi Altima,Escalade,Wagon,Diesel,violet,YU30UVT
+Chevrolet,Jaguar Charger,Explorer,Crew Cab Pickup,Diesel,blue,BX83SNL
+Jeep,Land Rover Model T,Impala,Coupe,Gasoline,blue,WN52PJX
+BMW,Tesla Jetta,Camry,Convertible,Hybrid,silver,UE95RBX
+Porsche,Bentley Malibu,Roadster,Hatchback,Gasoline,lime,KD25LFO
+Polestar,Smart Altima,Golf,Convertible,Electric,fuchsia,ZA98IOS
+Honda,Mazda A4,Impala,Passenger Van,Gasoline,silver,ZH40CYG
+Smart,Chrysler Altima,911,Hatchback,Gasoline,magenta,AU73LUE
+Polestar,Mini Camry,Model Y,Extended Cab Pickup,Electric,magenta,BA77JXS
+Chrysler,Kia Model T,Expedition,Coupe,Electric,orange,XW15FHF
