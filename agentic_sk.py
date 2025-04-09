@@ -84,9 +84,10 @@ def run_pipeline(csv_path, user_goal):
                 "html": f"<html><body><pre>{body}</pre></body></html>",
             },
             "recipients": {
-                "to": [{"address": "v-kvinayak@microsoft.com", "displayName": "Kumar Vinayak"}],
+                "to": [{"address": "kvinayakiu@outlook.com", "displayName": "Kumar Vinayak"}],
             },
-            "senderAddress": "DoNotReply@eb2f5da7-613b-4bbe-88d9-e50944365cbc.azurecomm.net",
+            #update with your sender's address
+            "senderAddress": "",
             "attachments": [
                 {
                     "name": "plot.png",
