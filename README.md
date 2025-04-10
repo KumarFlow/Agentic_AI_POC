@@ -132,17 +132,7 @@ Here’s what you’ll get:
 ## 🛡️ Notes
 
 - Make sure your Azure OpenAI and Communication Services resources are properly configured and enabled.
-- This app is for educational/demo use. Secure your keys and sensitive info before production use.
 
----
-
-## 💡 Future Improvements
-
-- Add support for Excel files
-- Enable multiple file uploads
-- Improve chart customization
-- Add error handling and retry mechanisms
-- Add accessibility and responsive design
 
 ---
 
